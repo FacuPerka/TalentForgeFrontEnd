@@ -1,9 +1,9 @@
 Programming and Languages Courses Page
 This project is a web application that helps people learn about different programming languages and how to use them to create web applications. The courses are designed for people of all experience levels, from beginners to advanced.
 
-<h3>Technical Goals<h3/>
+<h3>Technical Goals</h3>
 The following technical goals have been achieved in the development of this project:
-
+<br>
 * Deployment: The project has been deployed into production on a web server.
 * Third-party authentication: The project allows users to authenticate with their Google or Twitter account.
 * Payment gateway: The project allows users to purchase courses with a credit card.
