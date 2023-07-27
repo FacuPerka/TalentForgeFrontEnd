@@ -15,3 +15,18 @@ The following technical goals have been achieved in the development of this proj
 * Local Storage: The project uses Local Storage to store user preferences.
 * Reviews: The project allows users to leave reviews of the courses.
 * Admin Dashboard: The project has an admin dashboard that allows administrators to manage courses, users, and roles.
+
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username_/Project-Name.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Start the web server
+   ```js
+   npm start
+   ```
