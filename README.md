@@ -38,6 +38,7 @@ The following technical goals have been achieved in the development of this proj
 
 ## Group members
 [Elian Rehbani LKDN](https://www.linkedin.com/in/elián-rehbani-96113624b/)
+<br>
 [Elian Rehbani GH](https://github.com/ERehbani)
 [Facundo Perka LKDN](https://www.linkedin.com/in/facuperka/)
 [Facundo Perka GH](https://github.com/FacuPerka)
