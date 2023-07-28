@@ -35,3 +35,19 @@ The following technical goals have been achieved in the development of this proj
    ```js
    npm start
    ```
+
+## Group members
+[Elian Rehbani LKDN](https://www.linkedin.com/in/elián-rehbani-96113624b/)
+[Elian Rehbani GH](https://github.com/ERehbani)
+[Facundo Perka LKDN](https://www.linkedin.com/in/facuperka/)
+[Facundo Perka GH](https://github.com/FacuPerka)
+[Gian Ruiz LKDN](https://www.linkedin.com/in/gian-carlo-ruiz-patiño-320270183/)
+[Gian Ruiz GH](https://github.com/Giankrp)
+[Jhohan Cortes LKDN](https://www.linkedin.com/in/jhohan-cortes-a314a8213/)
+[Jhohan Cortes GH](https://github.com/JhohanCortes)
+[Sebastian Albornoz LKDN](https://www.linkedin.com/in/sebastian-albornoz-126b90237/)
+[Sebastian Albornoz GH](https://github.com/Shakkus) 
+[Sergio Correa LKDN](https://www.linkedin.com/in/sergio-correa-a85563267/)
+[Sergio Correa GH](https://github.com/SergioFCorrea)
+[Thiago Zambonini LKDN ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
+[Thiago Zambonini GH ](https://www.linkedin.com/in/thiago-zambonini-2a279a239/)
