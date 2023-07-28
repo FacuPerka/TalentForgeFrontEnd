@@ -1,6 +1,5 @@
 <h2>Important</h2>
-<br>
-_The [Backend](https://github.com/FacuPerka/TalentForgeBackend) must be running!_
+See the [open issues](https://github.com/FacuPerka/TalentForgeBackend) for a full list of proposed features (and known issues).
 <br>
 <br>
 
