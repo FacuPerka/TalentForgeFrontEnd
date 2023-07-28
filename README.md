@@ -1,7 +1,8 @@
 <h2>Important</h2>
+<br>
 [Backend](https://github.com/FacuPerka/TalentForgeBackend) must be running!
-
-
+<br>
+<br>
 
 Programming and Languages Courses Page
 This project is a web application that helps people learn about different programming languages and how to use them to create web applications. The courses are designed for people of all experience levels, from beginners to advanced.
