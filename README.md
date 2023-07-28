@@ -1,5 +1,5 @@
 <h2>Important</h2>
-Backend must be running at the same time: https://github.com/FacuPerka/TalentForgeBackend
+Backend must be running at the same time: https://github.com/FacuPerka/TalentForgeBackEnd
 <br>
 <br>
 
