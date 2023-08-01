@@ -10,16 +10,16 @@ This project is an online application that aids individuals in learning various 
 <h2>Technical Goals</h2>
 
 The project has achieved the following technical goals during development:
-*Deployment It has been deployed on a web server for production.
-*Third-party authentication Users are able to authenticate using their Google or Twitter account.
-*Payment Gateway: Users can buy courses using a credit card through the project.
-*Filters Combined: Users can filter courses based on topic, duration, rating, and price.
-*Using Cloudinary: Cloudinary is used to store and serve images in the project.
-*The project sends notifications to users through EmailJS.
-*Logical deletion is supported: Users can logically delete courses from their watchlists in the project.
-*Local Storage is used in the project: The project utilises Local Storage to store user preferences.
-*Course Reviews: Users are able to submit reviews for the courses.
-*Administrator Dashboard: Administrators can manage courses, users, and roles using the project's dashboard.
+* Deployment It has been deployed on a web server for production.
+* Third-party authentication Users are able to authenticate using their Google or Twitter account.
+* Payment Gateway: Users can buy courses using a credit card through the project.
+* Filters Combined: Users can filter courses based on topic, duration, rating, and price.
+* Using Cloudinary: Cloudinary is used to store and serve images in the project.
+* The project sends notifications to users through EmailJS.
+* Logical deletion is supported: Users can logically delete courses from their watchlists in the project.
+* Local Storage is used in the project: The project utilises Local Storage to store user preferences.
+* Course Reviews: Users are able to submit reviews for the courses.
+* Administrator Dashboard: Administrators can manage courses, users, and roles using the project's dashboard.
 
 ### Installation
 
